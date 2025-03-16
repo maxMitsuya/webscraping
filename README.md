@@ -21,7 +21,7 @@ Os arquivos estão organizados por data, seguindo o padrão "ano-mês" (exemplo:
 
 ## Como Usar no Google Colab
 
-1. Acesse o notebook no Google Colab através do link fornecido.
+1. Acesse o notebook no Google Colab através do link fornecido: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1XZtg6Swi6ulJ0Ht4mcURq7tJHBfJ0Bts?usp=sharing](https://colab.research.google.com/drive/1X_c6IHV9lnXNM81C339Ia1o0onaaBf7s?usp=sharing)
 2. Certifique-se de que o ambiente do Colab está configurado corretamente (todas as bibliotecas necessárias já estão incluídas no código).
 3. Execute as células do notebook na ordem:
    - A primeira célula instala as dependências necessárias.
@@ -46,3 +46,4 @@ output.eval_js('google.colab.kernel.proxyPort(5000)')
 
 ## Contribuição
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
